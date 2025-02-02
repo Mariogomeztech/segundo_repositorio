@@ -1,2 +1,2 @@
-mercado = ("papas","lentejas","frijol")
+mercado = ("papas","lentejas","frijol","arepas")
 print(mercado)
